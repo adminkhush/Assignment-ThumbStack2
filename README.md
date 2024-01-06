@@ -51,6 +51,5 @@ Feel free to reach out to me! If you have any questions or want to discuss a pro
 HTML
 CSS
 JAVASCRIPT
-BOOTSTRAP 5
 
 # Thank you
